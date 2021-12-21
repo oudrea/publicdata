@@ -1,0 +1,3 @@
+keyword,caption_name,alert_threshold,topic_id,ENTITY_LABEL,name,description,source,source_identifier,global_identifier
+has been located,canceled,general.alert3,188297,ForeignMinistry,canceled,,dgm_ppdevent,d5c39a1d9aced393f835f334a1fb9206,dgm_ppdevent__d5c39a1d9aced393f835f334a1fb9206
+has returned,canceled,general.alert4,188297,FTO,canceled,,dgm_ppdevent,d5c39a1d9aced393f835f334a1fb9206,dgm_ppdevent__d5c39a1d9aced393f835f334a1fb9206

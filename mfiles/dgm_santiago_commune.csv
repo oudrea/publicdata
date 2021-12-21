@@ -1,0 +1,65 @@
+keyword,caption_name,location_lower,Lat/Long,ENTITY_LABEL,name,description,source,source_identifier,global_identifier
+recoleta,Recoleta,recoleta,"-33.4062, -70.6336",FTO,Recoleta,,dgm_santiago_commune,b64898b9570b9931c1c1d444cc07c4a4,dgm_santiago_commune__b64898b9570b9931c1c1d444cc07c4a4
+cerrillos,Cerrillos,cerrillos,"-33.5010, -70.7099",IndustryTerm,Cerrillos,,dgm_santiago_commune,1a76f0537fc9add3dbccf19e77098db7,dgm_santiago_commune__1a76f0537fc9add3dbccf19e77098db7
+cerro navia,Cerro Navia,cerro navia,"-33.4219, -70.7405",Pipeline,Cerro Navia,,dgm_santiago_commune,42c18973ffa19d64228dacbfaffada61,dgm_santiago_commune__42c18973ffa19d64228dacbfaffada61
+conchalí,Conchali,conchali,"-33.3847, -70.6800",DiplomaticFacilities,Conchali,,dgm_santiago_commune,a17684a1d5da6bd53fb5c62278ba602f,dgm_santiago_commune__a17684a1d5da6bd53fb5c62278ba602f
+el bosque,El Bosque,el bosque,"-33.5590, -70.6788",Refinery,El Bosque,,dgm_santiago_commune,77deb3c886ae1911318e7bdfb18d3f57,dgm_santiago_commune__77deb3c886ae1911318e7bdfb18d3f57
+estación central,Estacion Central,estacion central,"-33.4619, -70.6985",Keyphrase,Estacion Central,,dgm_santiago_commune,75918b487bbbd7bff8722e72797860a9,dgm_santiago_commune__75918b487bbbd7bff8722e72797860a9
+huechuraba,Huechuraba,huechuraba,"-33.3742, -70.6367",LegislativeCommittee,Huechuraba,,dgm_santiago_commune,6e9e7c1257cccd872a39732b880ba1bf,dgm_santiago_commune__6e9e7c1257cccd872a39732b880ba1bf
+independencia,Independencia,independencia,"-33.4156, -70.6643",Consulates,Independencia,,dgm_santiago_commune,6e028d68db8278966652493b77be5fe6,dgm_santiago_commune__6e028d68db8278966652493b77be5fe6
+la cisterna,La Cisterna,la cisterna,"-33.5264, -70.6614",FTO,La Cisterna,,dgm_santiago_commune,8a63a8198da7026d7e37926ab9809ab0,dgm_santiago_commune__8a63a8198da7026d7e37926ab9809ab0
+la florida,La Florida,la florida,"-33.5227, -70.5987",Legislator,La Florida,,dgm_santiago_commune,617aef4aba4d4b368f407dcefa07f99c,dgm_santiago_commune__617aef4aba4d4b368f407dcefa07f99c
+la granja,La Granja,la granja,"-33.5378, -70.6207",Media,La Granja,,dgm_santiago_commune,f35b6dd99ed4da738b4f7cd9c14cc4ed,dgm_santiago_commune__f35b6dd99ed4da738b4f7cd9c14cc4ed
+la pintana,La Pintana,la pintana,"-33.5856, -70.6286",Exec,La Pintana,,dgm_santiago_commune,32fc784e19c24c179cecc6e2dc17d5cf,dgm_santiago_commune__32fc784e19c24c179cecc6e2dc17d5cf
+la reina,La Reina,la reina,"-33.4411, -70.5341",LegislativeCommittee,La Reina,,dgm_santiago_commune,810f2c41b6c27d22de45498c5136969f,dgm_santiago_commune__810f2c41b6c27d22de45498c5136969f
+las condes,Las Condes,las condes,"-33.4079, -70.5451",Keyphrase,Las Condes,,dgm_santiago_commune,a841c8d0ab516483928c406384631f16,dgm_santiago_commune__a841c8d0ab516483928c406384631f16
+lo barnechea,Lo Barnechea,lo barnechea,"-33.3527, -70.5185",Organization,Lo Barnechea,,dgm_santiago_commune,373485ba71995bd5ecb28ffa81739b5c,dgm_santiago_commune__373485ba71995bd5ecb28ffa81739b5c
+lo espejo,Lo Espejo,lo espejo,"-33.5220, -70.6906",Exec,Lo Espejo,,dgm_santiago_commune,2106814f0c55abe88e82f9c347d42c55,dgm_santiago_commune__2106814f0c55abe88e82f9c347d42c55
+lo prado,Lo Prado,lo prado,"-33.4443, -70.7233",News,Lo Prado,,dgm_santiago_commune,4261dcf7b07ae7c3dc9c05633c87133c,dgm_santiago_commune__4261dcf7b07ae7c3dc9c05633c87133c
+macul,Macul,macul,"-33.4851, -70.5992",LegislativeCommittee,Macul,,dgm_santiago_commune,60162c549191e16d616c4b64ef96ee68,dgm_santiago_commune__60162c549191e16d616c4b64ef96ee68
+maipú,Maipu,maipu,"-33.5106, -70.7573",space,Maipu,,dgm_santiago_commune,37a16e5d2d50e43f9b736963b1d74e0e,dgm_santiago_commune__37a16e5d2d50e43f9b736963b1d74e0e
+ñuñoa,Nunoa,nunoa,"-33.4564, -70.6030",Person,Nunoa,,dgm_santiago_commune,400b8a144c0cd9c0908b816db90b6b0b,dgm_santiago_commune__400b8a144c0cd9c0908b816db90b6b0b
+pedro aguirre cerda,Pedro Aguirre Cerda,pedro aguirre cerda,"-33.4941, -70.6765",space,Pedro Aguirre Cerda,,dgm_santiago_commune,7e0bf9958b104999d3cd967c8951b07d,dgm_santiago_commune__7e0bf9958b104999d3cd967c8951b07d
+peñalolén,Penalolen,penalolen,"-33.4719, -70.5628",AAEntity,Penalolen,,dgm_santiago_commune,04c7b37e48d6c55c12c1b57a2744c409,dgm_santiago_commune__04c7b37e48d6c55c12c1b57a2744c409
+providencia,Providencia,providencia,"-33.4314, -70.6093",News,Providencia,,dgm_santiago_commune,0dfa66b3ddbd10ffe349b031913bdc52,dgm_santiago_commune__0dfa66b3ddbd10ffe349b031913bdc52
+pudahuel,Pudahuel,pudahuel,"-33.4421, -70.7641",Person,Pudahuel,,dgm_santiago_commune,9d02df55e3d27d4f40cccf2e0deeca14,dgm_santiago_commune__9d02df55e3d27d4f40cccf2e0deeca14
+quilicura,Quilicura,quilicura,"-33.3577, -70.7293",FTO,Quilicura,,dgm_santiago_commune,fc2f18b98cbd966637113c0e90351be0,dgm_santiago_commune__fc2f18b98cbd966637113c0e90351be0
+quinta normal,Quinta Normal,quinta normal,"-33.4317, -70.6924",ForeignMinister,Quinta Normal,,dgm_santiago_commune,d90b73323c85065ed34eb24dda3a857b,dgm_santiago_commune__d90b73323c85065ed34eb24dda3a857b
+renca,Renca,renca,"-33.4064, -70.7280",ForeignMinister,Renca,,dgm_santiago_commune,d5ff65ffc0eaeca3e71d3799a94291e3,dgm_santiago_commune__d5ff65ffc0eaeca3e71d3799a94291e3
+san joaquín,San Joaquin,san joaquin,"-33.4962, -70.6283",ForeignMinistry,San Joaquin,,dgm_santiago_commune,ebba99e57a93df98bee075799680cb6b,dgm_santiago_commune__ebba99e57a93df98bee075799680cb6b
+san miguel,San Miguel,san miguel,"-33.4924, -70.6518",LegislativeCommittee,San Miguel,,dgm_santiago_commune,bd10f8ed22bc839e3231f2cd424c336c,dgm_santiago_commune__bd10f8ed22bc839e3231f2cd424c336c
+san ramón,San Ramon,san ramon,"-33.5510, -70.6464",Consulates,San Ramon,,dgm_santiago_commune,3925aa71ee4eff703b46803725cebe00,dgm_santiago_commune__3925aa71ee4eff703b46803725cebe00
+vitacura,Vitacura,vitacura,"-33.3905, -70.5724",DiplomaticFacilities,Vitacura,,dgm_santiago_commune,59828cbe0749802e31a524675e92c8f0,dgm_santiago_commune__59828cbe0749802e31a524675e92c8f0
+#recoleta,Recoleta,recoleta,"-33.4062, -70.6336",Shipping,Recoleta,,dgm_santiago_commune,b64898b9570b9931c1c1d444cc07c4a4,dgm_santiago_commune__b64898b9570b9931c1c1d444cc07c4a4
+#cerrillos,Cerrillos,cerrillos,"-33.5010, -70.7099",Media,Cerrillos,,dgm_santiago_commune,1a76f0537fc9add3dbccf19e77098db7,dgm_santiago_commune__1a76f0537fc9add3dbccf19e77098db7
+#cerro_navia_,Cerro Navia,cerro navia,"-33.4219, -70.7405",Exec,Cerro Navia,,dgm_santiago_commune,42c18973ffa19d64228dacbfaffada61,dgm_santiago_commune__42c18973ffa19d64228dacbfaffada61
+#conchalí,Conchali,conchali,"-33.3847, -70.6800",Refinery,Conchali,,dgm_santiago_commune,a17684a1d5da6bd53fb5c62278ba602f,dgm_santiago_commune__a17684a1d5da6bd53fb5c62278ba602f
+#el_bosque,El Bosque,el bosque,"-33.5590, -70.6788",CompanyKeyword,El Bosque,,dgm_santiago_commune,77deb3c886ae1911318e7bdfb18d3f57,dgm_santiago_commune__77deb3c886ae1911318e7bdfb18d3f57
+#estación_central,Estacion Central,estacion central,"-33.4619, -70.6985",AAEntity,Estacion Central,,dgm_santiago_commune,75918b487bbbd7bff8722e72797860a9,dgm_santiago_commune__75918b487bbbd7bff8722e72797860a9
+#huechuraba,Huechuraba,huechuraba,"-33.3742, -70.6367",FTO,Huechuraba,,dgm_santiago_commune,6e9e7c1257cccd872a39732b880ba1bf,dgm_santiago_commune__6e9e7c1257cccd872a39732b880ba1bf
+#independencia,Independencia,independencia,"-33.4156, -70.6643",Media,Independencia,,dgm_santiago_commune,6e028d68db8278966652493b77be5fe6,dgm_santiago_commune__6e028d68db8278966652493b77be5fe6
+#la_cisterna,La Cisterna,la cisterna,"-33.5264, -70.6614",Pipeline,La Cisterna,,dgm_santiago_commune,8a63a8198da7026d7e37926ab9809ab0,dgm_santiago_commune__8a63a8198da7026d7e37926ab9809ab0
+#la_florida,La Florida,la florida,"-33.5227, -70.5987",Shipping,La Florida,,dgm_santiago_commune,617aef4aba4d4b368f407dcefa07f99c,dgm_santiago_commune__617aef4aba4d4b368f407dcefa07f99c
+#la_granja,La Granja,la granja,"-33.5378, -70.6207",AAEntity,La Granja,,dgm_santiago_commune,f35b6dd99ed4da738b4f7cd9c14cc4ed,dgm_santiago_commune__f35b6dd99ed4da738b4f7cd9c14cc4ed
+#la_pintana,La Pintana,la pintana,"-33.5856, -70.6286",space,La Pintana,,dgm_santiago_commune,32fc784e19c24c179cecc6e2dc17d5cf,dgm_santiago_commune__32fc784e19c24c179cecc6e2dc17d5cf
+#la_reina,La Reina,la reina,"-33.4411, -70.5341",Consulates,La Reina,,dgm_santiago_commune,810f2c41b6c27d22de45498c5136969f,dgm_santiago_commune__810f2c41b6c27d22de45498c5136969f
+#las_condes,Las Condes,las condes,"-33.4079, -70.5451",Keyphrase,Las Condes,,dgm_santiago_commune,a841c8d0ab516483928c406384631f16,dgm_santiago_commune__a841c8d0ab516483928c406384631f16
+#lo_barnechea,Lo Barnechea,lo barnechea,"-33.3527, -70.5185",space,Lo Barnechea,,dgm_santiago_commune,373485ba71995bd5ecb28ffa81739b5c,dgm_santiago_commune__373485ba71995bd5ecb28ffa81739b5c
+#lo_espejo,Lo Espejo,lo espejo,"-33.5220, -70.6906",News,Lo Espejo,,dgm_santiago_commune,2106814f0c55abe88e82f9c347d42c55,dgm_santiago_commune__2106814f0c55abe88e82f9c347d42c55
+#lo_prado,Lo Prado,lo prado,"-33.4443, -70.7233",Diplomat,Lo Prado,,dgm_santiago_commune,4261dcf7b07ae7c3dc9c05633c87133c,dgm_santiago_commune__4261dcf7b07ae7c3dc9c05633c87133c
+#macul,Macul,macul,"-33.4851, -70.5992",Keyphrase,Macul,,dgm_santiago_commune,60162c549191e16d616c4b64ef96ee68,dgm_santiago_commune__60162c549191e16d616c4b64ef96ee68
+#maipú,Maipu,maipu,"-33.5106, -70.7573",CompanyKeyword,Maipu,,dgm_santiago_commune,37a16e5d2d50e43f9b736963b1d74e0e,dgm_santiago_commune__37a16e5d2d50e43f9b736963b1d74e0e
+#ñuñoa,Nunoa,nunoa,"-33.4564, -70.6030",Diplomat,Nunoa,,dgm_santiago_commune,400b8a144c0cd9c0908b816db90b6b0b,dgm_santiago_commune__400b8a144c0cd9c0908b816db90b6b0b
+#pedro_aguirre_cerda,Pedro Aguirre Cerda,pedro aguirre cerda,"-33.4941, -70.6765",Diplomat,Pedro Aguirre Cerda,,dgm_santiago_commune,7e0bf9958b104999d3cd967c8951b07d,dgm_santiago_commune__7e0bf9958b104999d3cd967c8951b07d
+#peñalolén,Penalolen,penalolen,"-33.4719, -70.5628",Legislator,Penalolen,,dgm_santiago_commune,04c7b37e48d6c55c12c1b57a2744c409,dgm_santiago_commune__04c7b37e48d6c55c12c1b57a2744c409
+#providencia,Providencia,providencia,"-33.4314, -70.6093",Consulates,Providencia,,dgm_santiago_commune,0dfa66b3ddbd10ffe349b031913bdc52,dgm_santiago_commune__0dfa66b3ddbd10ffe349b031913bdc52
+#pudahuel,Pudahuel,pudahuel,"-33.4421, -70.7641",Person,Pudahuel,,dgm_santiago_commune,9d02df55e3d27d4f40cccf2e0deeca14,dgm_santiago_commune__9d02df55e3d27d4f40cccf2e0deeca14
+#quilicura,Quilicura,quilicura,"-33.3577, -70.7293",space,Quilicura,,dgm_santiago_commune,fc2f18b98cbd966637113c0e90351be0,dgm_santiago_commune__fc2f18b98cbd966637113c0e90351be0
+#quinta_normal,Quinta Normal,quinta normal,"-33.4317, -70.6924",Legislator,Quinta Normal,,dgm_santiago_commune,d90b73323c85065ed34eb24dda3a857b,dgm_santiago_commune__d90b73323c85065ed34eb24dda3a857b
+#renca,Renca,renca,"-33.4064, -70.7280",Exec,Renca,,dgm_santiago_commune,d5ff65ffc0eaeca3e71d3799a94291e3,dgm_santiago_commune__d5ff65ffc0eaeca3e71d3799a94291e3
+#san_joaquín,San Joaquin,san joaquin,"-33.4962, -70.6283",Wells,San Joaquin,,dgm_santiago_commune,ebba99e57a93df98bee075799680cb6b,dgm_santiago_commune__ebba99e57a93df98bee075799680cb6b
+#san_miguel,San Miguel,san miguel,"-33.4924, -70.6518",Consulates,San Miguel,,dgm_santiago_commune,bd10f8ed22bc839e3231f2cd424c336c,dgm_santiago_commune__bd10f8ed22bc839e3231f2cd424c336c
+#san_ramón,San Ramon,san ramon,"-33.5510, -70.6464",Consulates,San Ramon,,dgm_santiago_commune,3925aa71ee4eff703b46803725cebe00,dgm_santiago_commune__3925aa71ee4eff703b46803725cebe00
+#vitacura,Vitacura,vitacura,"-33.3905, -70.5724",AAEntity,Vitacura,,dgm_santiago_commune,59828cbe0749802e31a524675e92c8f0,dgm_santiago_commune__59828cbe0749802e31a524675e92c8f0
+santiago,central Santiago,central santiago,"-33.45747290867496, -70.66491874592307",Diplomat,central Santiago,,dgm_santiago_commune,f0168748265d9596481fcbd402668212,dgm_santiago_commune__f0168748265d9596481fcbd402668212
+#santiago,central Santiago,central santiago,"-33.45747290867496, -70.66491874592307",Shipping,central Santiago,,dgm_santiago_commune,f0168748265d9596481fcbd402668212,dgm_santiago_commune__f0168748265d9596481fcbd402668212

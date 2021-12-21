@@ -1,0 +1,9 @@
+handle,caption_name,location_lower,location,type,exclude_group,ENTITY_LABEL,name,description,source,source_identifier,global_identifier
+alleywatch,AlleyWatch,new york,New York,VC Press,,VcPress,AlleyWatch,,vc_press,477d0292ab67367a49c2aa523a98c88a,vc_press__477d0292ab67367a49c2aa523a98c88a
+pitchbook,PitchBook Data,seattle,Seattle,VC Press,,VcPress,PitchBook Data,,vc_press,26f3fe9e87b2e260ee942dac318a8e88,vc_press__26f3fe9e87b2e260ee942dac318a8e88
+pitchbooknews,PitchBook News,seattle,Seattle,VC Press,,VcPress,PitchBook News,,vc_press,4e02503ab30b12e48bad9181006fed52,vc_press__4e02503ab30b12e48bad9181006fed52
+cbinsights,CB Insights,new york,New York,VC Press,,VcPress,CB Insights,,vc_press,4e2e927f0aa944a39196c6270117009f,vc_press__4e2e927f0aa944a39196c6270117009f
+crunchbase,Crunchbase,"san francisco, ca","San Francisco, CA",VC Press,,VcPress,Crunchbase,,vc_press,b9a091b616a48346d237ce057f2d06a8,vc_press__b9a091b616a48346d237ce057f2d06a8
+wsjvc,WSJ Venture Capital,"san francisco, ca","San Francisco, CA",VC Press,,VcPress,WSJ Venture Capital,,vc_press,32d1394278e453acd3d513b354f2d715,vc_press__32d1394278e453acd3d513b354f2d715
+axios,Axios,"arlington, va","Arlington, VA",VC Press,,VcPress,Axios,,vc_press,d3e28535c74ccee29182aeb3cf837e98,vc_press__d3e28535c74ccee29182aeb3cf837e98
+venturebeat,VentureBeat,"san francisco, ca","San Francisco, CA",VC Press,,VcPress,VentureBeat,,vc_press,c298a9171480e1611388f62a09a5ab87,vc_press__c298a9171480e1611388f62a09a5ab87

@@ -1,0 +1,2 @@
+USING PERIODIC COMMIT 500 LOAD CSV WITH HEADERS FROM $param + 'P0 - Military Aircrafts-rel.csv' AS line 
+         MATCH (nsrc:Entity { global_identifier: line.source_global_identifier }) WITH nsrc MATCH (ndest:Entity { global_identifier: line.destination_global_identifier }) WITH nsrc, ndest         CALL apoc.merge.relationship.eager(nsrc, line.rel_type, {}, line.rel_properties, ndest, line.rel_properties) YIELD r RETURN r;

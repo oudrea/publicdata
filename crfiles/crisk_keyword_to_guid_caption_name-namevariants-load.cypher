@@ -1,8 +1,8 @@
-USING PERIODIC COMMIT 500 LOAD CSV WITH HEADERS FROM $baseURl + 'crisk_keyword_to_guid_caption_name-namevariants.csv' AS line 
+USING PERIODIC COMMIT 500 LOAD CSV WITH HEADERS FROM $baseURL + 'crisk_keyword_to_guid_caption_name-namevariants.csv' AS line 
      MERGE (n:Entity {global_identifier: line.global_identifier}) 
      ON CREATE SET n.type=line.type, n.type_list=apoc.convert.fromJsonList(line.type_list), n.variant=line.variant, n.row_index=line.row_index, n.keyword=line.keyword, n.guid=line.guid, n.caption_name=line.caption_name, n.secondary_terms=line.`Secondary Terms`, n.join_type=line.`Join Type`, n.exclude_terms=line.`Exclude Terms`, n.plural=line.Plural, n.possessive=line.Possessive, n.relate_column_2=line.relate_column2, n.key_edit_time=line.key_edit_time, n.dupe=line.Dupe, n.data_source=line.data_source, n.source_identifier=line.source_identifier, n.global_identifier=line.global_identifier, n.sources = [], n.source_identifiers = [] 
      ON MATCH SET n.type_list=apoc.convert.fromJsonList(line.type_list), n.variant=line.variant, n.row_index=line.row_index, n.keyword=line.keyword, n.guid=line.guid, n.caption_name=line.caption_name, n.secondary_terms=line.`Secondary Terms`, n.join_type=line.`Join Type`, n.exclude_terms=line.`Exclude Terms`, n.plural=line.Plural, n.possessive=line.Possessive, n.relate_column_2=line.relate_column2, n.key_edit_time=line.key_edit_time, n.dupe=line.Dupe, n.sources = apoc.coll.toSet(n.sources + line.data_source), n.source_identifiers = apoc.coll.toSet(n.source_identifiers + line.source_identifier) 
      RETURN n;
-USING PERIODIC COMMIT 500 LOAD CSV WITH HEADERS FROM $baseURl + 'crisk_keyword_to_guid_caption_name-namevariants.csv' AS line 
+USING PERIODIC COMMIT 500 LOAD CSV WITH HEADERS FROM $baseURL + 'crisk_keyword_to_guid_caption_name-namevariants.csv' AS line 
      MATCH (n:Entity {global_identifier: line.global_identifier}) 
-     WITH n, line CALL apoc.create.addLabels(n, line.labels) YIELD node RETURN node;
+     WITH n, line CALL apoc.create.addLabels(n, apoc.convert.fromJsonList(line.labels)) YIELD node RETURN node;

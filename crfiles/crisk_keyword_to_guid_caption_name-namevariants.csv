@@ -2562,6 +2562,8 @@ labels,type,type_list,variant,row_index,keyword,guid,caption_name,Secondary Term
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",CSX,-1,CSX,,,,,,,,,,,mapping,d66fe837d9d1838c677dd8700bc0371f,mapping__d66fe837d9d1838c677dd8700bc0371f
 "[""NameVariant"",""Caption""]",Caption,"[""NameVariant"",""Caption""]",Conrail,1530,,201bcd91a5d042f4e587be80fd3378ff,Conrail,,,,,,,,1,mapping,059fb8d6779ebf57c848933346b040af,mapping__059fb8d6779ebf57c848933346b040af
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",conrail,1530,conrail,,,,,,,,,,,mapping,1be2a8a60bc6aac17576dd0fd7841bca,mapping__1be2a8a60bc6aac17576dd0fd7841bca
+"[""NameVariant""]",NameVariant,"[""NameVariant""]",Consolidated Rail Corporation,-1,Consolidated Rail Corporation,,,,,,,,,,,mapping,10f793886e5e900c3377d588084a11bc,mapping__10f793886e5e900c3377d588084a11bc
+"[""NameVariant""]",NameVariant,"[""NameVariant""]",CR,-1,CR,,,,,,,,,,,mapping,f5d1daaacc9f541851f2b8cca5164441,mapping__f5d1daaacc9f541851f2b8cca5164441
 "[""NameVariant"",""Caption""]",Caption,"[""NameVariant"",""Caption""]",Transflo,1531,,201bcd91a5d042f4e587be80fd3378ff,Transflo,,,,,,,,1,mapping,5ca3039fc0d05bde2c4c0e6b51fc146c,mapping__5ca3039fc0d05bde2c4c0e6b51fc146c
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",transflo,1531,transflo,,,,,,,,,,,mapping,f3689a680d854a44b6e279f34a31b59f,mapping__f3689a680d854a44b6e279f34a31b59f
 "[""NameVariant"",""Caption""]",Caption,"[""NameVariant"",""Caption""]",Fruit Growers Express,1532,,201bcd91a5d042f4e587be80fd3378ff,Fruit Growers Express,,,,,,,,1,mapping,4e83f070c536d6417f8b8fa569808e89,mapping__4e83f070c536d6417f8b8fa569808e89
@@ -4050,8 +4052,9 @@ labels,type,type_list,variant,row_index,keyword,guid,caption_name,Secondary Term
 "[""NameVariant"",""Caption""]",Caption,"[""NameVariant"",""Caption""]",iPhone,2323,,2adac6e9b077021a8c4e5de1a3aa057b,iPhone,Infrastructure,JOIN,,TRUE,TRUE,,,1,mapping,0879a731b15b8afd73779f678d3397ad,mapping__0879a731b15b8afd73779f678d3397ad
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",iphone,2323,iphone,,,,,,,,,,,mapping,aad5dbc7fd3a3b6536e7fbb287723e9a,mapping__aad5dbc7fd3a3b6536e7fbb287723e9a
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",i phone,2324,i phone,,,,,,,,,,,mapping,2e4e0755b727fbff73fd108666afb292,mapping__2e4e0755b727fbff73fd108666afb292
-"[""NameVariant""]",NameVariant,"[""NameVariant""]",IGB Electronica,-1,IGB Electronica,,,,,,,,,,,mapping,5ef5abe1d348489166b836bbaf307a61,mapping__5ef5abe1d348489166b836bbaf307a61
-"[""NameVariant""]",NameVariant,"[""NameVariant""]",IGB ELETRÔNICA S/A,-1,IGB ELETRÔNICA S/A,,,,,,,,,,,mapping,ebb9a7e9409fc7faa1f0d28e45d183f4,mapping__ebb9a7e9409fc7faa1f0d28e45d183f4
+"[""NameVariant""]",NameVariant,"[""NameVariant""]",iPhone series,-1,iPhone series,,,,,,,,,,,mapping,ccf1a515444b229a3ef2dbcdcb6e9b03,mapping__ccf1a515444b229a3ef2dbcdcb6e9b03
+"[""NameVariant""]",NameVariant,"[""NameVariant""]",iPhone line,-1,iPhone line,,,,,,,,,,,mapping,ec414fc5f42bd062795f79999b13c3fe,mapping__ec414fc5f42bd062795f79999b13c3fe
+"[""NameVariant""]",NameVariant,"[""NameVariant""]",iPhone family,-1,iPhone family,,,,,,,,,,,mapping,b4a0928590f92a79b4680bc80129ee27,mapping__b4a0928590f92a79b4680bc80129ee27
 "[""NameVariant"",""Caption""]",Caption,"[""NameVariant"",""Caption""]",AirPods,2325,,2adac6e9b077021a8c4e5de1a3aa057b,AirPods,Infrastructure,JOIN,,TRUE,TRUE,,,1,mapping,b46c4b81ba9e14d0a1596a8b2b9e884a,mapping__b46c4b81ba9e14d0a1596a8b2b9e884a
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",airpods,2325,airpods,,,,,,,,,,,mapping,7ae23e125745b187c1ff7667430804ad,mapping__7ae23e125745b187c1ff7667430804ad
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",air pods,2326,air pods,,,,,,,,,,,mapping,330b9c5a6cd9d0fa70e8e9e752beff0f,mapping__330b9c5a6cd9d0fa70e8e9e752beff0f
@@ -4063,12 +4066,16 @@ labels,type,type_list,variant,row_index,keyword,guid,caption_name,Secondary Term
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",iphonese,2328,iphonese,,,,,,,,,,,mapping,cd1ba5d8eafd05bafc55f9e728b07ce8,mapping__cd1ba5d8eafd05bafc55f9e728b07ce8
 "[""NameVariant"",""Caption""]",Caption,"[""NameVariant"",""Caption""]",iPhone 8,2329,,2adac6e9b077021a8c4e5de1a3aa057b,iPhone 8,,,,,,,,1,mapping,8aa0bed33d5c42496f99205838aea7a8,mapping__8aa0bed33d5c42496f99205838aea7a8
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",iphone8,2329,iphone8,,,,,,,,,,,mapping,6609779275e84797dba66a5059d636ed,mapping__6609779275e84797dba66a5059d636ed
+"[""NameVariant""]",NameVariant,"[""NameVariant""]",Apple iPhone 8,-1,Apple iPhone 8,,,,,,,,,,,mapping,cd024d11b33483be0f5de462ce4d2e1d,mapping__cd024d11b33483be0f5de462ce4d2e1d
 "[""NameVariant"",""Caption""]",Caption,"[""NameVariant"",""Caption""]",iPhone 7,2330,,2adac6e9b077021a8c4e5de1a3aa057b,iPhone 7,,,,,,,,1,mapping,8f23ed15bf018c8845b82aef5653cc80,mapping__8f23ed15bf018c8845b82aef5653cc80
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",iphone7,2330,iphone7,,,,,,,,,,,mapping,34e523986c1125e6bb47178474f03e2e,mapping__34e523986c1125e6bb47178474f03e2e
+"[""NameVariant""]",NameVariant,"[""NameVariant""]",Apple iPhone 7,-1,Apple iPhone 7,,,,,,,,,,,mapping,cc1a0ba5ace6ae592bb75dfa5ae2355d,mapping__cc1a0ba5ace6ae592bb75dfa5ae2355d
 "[""NameVariant"",""Caption""]",Caption,"[""NameVariant"",""Caption""]",iMovie,2331,,2adac6e9b077021a8c4e5de1a3aa057b,iMovie,,,,,,,,1,mapping,4e3ddb1728241d996b74186a2630cb56,mapping__4e3ddb1728241d996b74186a2630cb56
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",imovie,2331,imovie,,,,,,,,,,,mapping,a1f48546e37fc2ea525ac55ce584c24f,mapping__a1f48546e37fc2ea525ac55ce584c24f
 "[""NameVariant"",""Caption""]",Caption,"[""NameVariant"",""Caption""]",iPhone 6,2332,,2adac6e9b077021a8c4e5de1a3aa057b,iPhone 6,,,,,,,,1,mapping,e2d447978afa5992efdc723caf2d9442,mapping__e2d447978afa5992efdc723caf2d9442
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",iphone6,2332,iphone6,,,,,,,,,,,mapping,d344f2eec45a8b7461561ea37b8dd834,mapping__d344f2eec45a8b7461561ea37b8dd834
+"[""NameVariant""]",NameVariant,"[""NameVariant""]",iPhone Six,-1,iPhone Six,,,,,,,,,,,mapping,f7740e7c4e62b9a5e6aaac297db061d1,mapping__f7740e7c4e62b9a5e6aaac297db061d1
+"[""NameVariant""]",NameVariant,"[""NameVariant""]",Apple iPhone 6,-1,Apple iPhone 6,,,,,,,,,,,mapping,62fa1c498173b545a0ee2dd7b68bb7d4,mapping__62fa1c498173b545a0ee2dd7b68bb7d4
 "[""NameVariant"",""Caption""]",Caption,"[""NameVariant"",""Caption""]",iPhone XS,2333,,2adac6e9b077021a8c4e5de1a3aa057b,iPhone XS,,,,,,,,1,mapping,001317e4eac541e41a9af02ae647c61c,mapping__001317e4eac541e41a9af02ae647c61c
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",iphonexs,2333,iphonexs,,,,,,,,,,,mapping,684ff1c041c30bb299c6e5e20058c430,mapping__684ff1c041c30bb299c6e5e20058c430
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",iPhone 10s,-1,iPhone 10s,,,,,,,,,,,mapping,0aac7655f146ce224f89e750972f2bf1,mapping__0aac7655f146ce224f89e750972f2bf1
@@ -4076,6 +4083,7 @@ labels,type,type_list,variant,row_index,keyword,guid,caption_name,Secondary Term
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",iPhone X S,-1,iPhone X S,,,,,,,,,,,mapping,dc926af370ca0190ec6d7abc276339b0,mapping__dc926af370ca0190ec6d7abc276339b0
 "[""NameVariant"",""Caption""]",Caption,"[""NameVariant"",""Caption""]",iPhone 6s,2334,,2adac6e9b077021a8c4e5de1a3aa057b,iPhone 6s,,,,,,,,1,mapping,26295207cf9b9eaa0fee597dee3aa9c0,mapping__26295207cf9b9eaa0fee597dee3aa9c0
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",iphone6s,2334,iphone6s,,,,,,,,,,,mapping,6364e279843dac25ec9277691bf7cb96,mapping__6364e279843dac25ec9277691bf7cb96
+"[""NameVariant""]",NameVariant,"[""NameVariant""]",Apple iPhone 6S,-1,Apple iPhone 6S,,,,,,,,,,,mapping,4206a045d9b050bb445c5645446da181,mapping__4206a045d9b050bb445c5645446da181
 "[""NameVariant"",""Caption""]",Caption,"[""NameVariant"",""Caption""]",iPhone XR,2335,,2adac6e9b077021a8c4e5de1a3aa057b,iPhone XR,,,,,,,,1,mapping,7f21eaa3a67cf519808758567a1e6d73,mapping__7f21eaa3a67cf519808758567a1e6d73
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",iphonexr,2335,iphonexr,,,,,,,,,,,mapping,49dfb3eec9a76d5d1aabb565b9a208d3,mapping__49dfb3eec9a76d5d1aabb565b9a208d3
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",iPhone 10 R,-1,iPhone 10 R,,,,,,,,,,,mapping,38b5fbe3a4f1e54c64dac25c7e96110b,mapping__38b5fbe3a4f1e54c64dac25c7e96110b
@@ -4369,6 +4377,7 @@ labels,type,type_list,variant,row_index,keyword,guid,caption_name,Secondary Term
 "[""NameVariant"",""Caption""]",Caption,"[""NameVariant"",""Caption""]",AARP,2499,,2f7155bb7a483ecb151b2c6ef70bc228,AARP,,,,,,,,1,mapping,d0e1c6bcd023f518122feca88614db41,mapping__d0e1c6bcd023f518122feca88614db41
 "[""NameVariant"",""Hashtag""]",Hashtag,"[""NameVariant"",""Hashtag""]",#aarp,2499,#aarp,,,,,,,,,,,mapping,c7c924541765f0cc7ca187b2310906c8,mapping__c7c924541765f0cc7ca187b2310906c8
 "[""NameVariant"",""Hashtag""]",Hashtag,"[""NameVariant"",""Hashtag""]",#aarpminute,2500,#aarpminute,,,,,,,,,,,mapping,f8bd242b551892ed30c97adb0945e11d,mapping__f8bd242b551892ed30c97adb0945e11d
+"[""NameVariant""]",NameVariant,"[""NameVariant""]",American Association of Retired Persons,-1,American Association of Retired Persons,,,,,,,,,,,mapping,c10b01b3026ea7d595c366ae70acf39c,mapping__c10b01b3026ea7d595c366ae70acf39c
 "[""NameVariant"",""Caption""]",Caption,"[""NameVariant"",""Caption""]",Freddie Mac,2501,,2f73a63fa56565bb8209179dfe056f48,Freddie Mac,,,,,,,,1,mapping,69a4df7225b19e99945a65ea6156146e,mapping__69a4df7225b19e99945a65ea6156146e
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",freddie mac foundation,2501,freddie mac foundation,,,,,,,,,,,mapping,9e1f004fb89b07b8529f75cd4122c813,mapping__9e1f004fb89b07b8529f75cd4122c813
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",freddie mac asset management,2502,freddie mac asset management,,,,,,,,,,,mapping,123754cf296585833387fd6402e26624,mapping__123754cf296585833387fd6402e26624
@@ -4827,8 +4836,7 @@ labels,type,type_list,variant,row_index,keyword,guid,caption_name,Secondary Term
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",amzn,2769,amzn,,,,,,,,,,,mapping,b2f130c483bd2f3997effd86568a993c,mapping__b2f130c483bd2f3997effd86568a993c
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",amazon prototype,2770,amazon prototype,,,,,,,,,,,mapping,ff0fbf3bd1c48a76ae0a09d6d7b5cf43,mapping__ff0fbf3bd1c48a76ae0a09d6d7b5cf43
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",amazonprototype,2771,amazonprototype,,,,,,,,,,,mapping,6013024a19b3acc7a9d1b2f5826c962c,mapping__6013024a19b3acc7a9d1b2f5826c962c
-"[""NameVariant""]",NameVariant,"[""NameVariant""]",Dahomey Amazons,-1,Dahomey Amazons,,,,,,,,,,,mapping,5d8efcf750a2608b30e151e32782d8f5,mapping__5d8efcf750a2608b30e151e32782d8f5
-"[""NameVariant""]",NameVariant,"[""NameVariant""]",Mino,-1,Mino,,,,,,,,,,,mapping,e730977e1fb77b3709823be18c7aba31,mapping__e730977e1fb77b3709823be18c7aba31
+"[""NameVariant""]",NameVariant,"[""NameVariant""]",Greek Battalion of Balaklava,-1,Greek Battalion of Balaklava,,,,,,,,,,,mapping,a12a1ede0ba587ea84a2d91d2415d0c9,mapping__a12a1ede0ba587ea84a2d91d2415d0c9
 "[""NameVariant"",""Caption""]",Caption,"[""NameVariant"",""Caption""]",Amazon Executive Chair Bezos,2772,,32ec5fc746a720416749e18927068772,Amazon Executive Chair Bezos,,,,,,,2021.11.24 16:03:11,1,mapping,80af7d7a72662f698987a5f1ee82094e,mapping__80af7d7a72662f698987a5f1ee82094e
 "[""NameVariant"",""Handle""]",Handle,"[""NameVariant"",""Handle""]",@jeffbezos,2772,@jeffbezos,,,,,,,,,,,mapping,deac09769248edff481ac7945b426203,mapping__deac09769248edff481ac7945b426203
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",jeffbezos,2773,jeffbezos,,,,,,,,,,,mapping,60749bdcba01036913289e8d4e638f84,mapping__60749bdcba01036913289e8d4e638f84
@@ -6161,6 +6169,8 @@ labels,type,type_list,variant,row_index,keyword,guid,caption_name,Secondary Term
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",DirtyRedd,-1,DirtyRedd,,,,,,,,,,,mapping,c2dfaf84fc1f2ca72a2f562e7756c617,mapping__c2dfaf84fc1f2ca72a2f562e7756c617
 "[""NameVariant"",""Caption""]",Caption,"[""NameVariant"",""Caption""]",Corcoran,3634,,4789c703f89c358cc5135b2782ebb010,Corcoran,,,,,,,,1,mapping,cd4677f4d06712ebb752a2df47f79b50,mapping__cd4677f4d06712ebb752a2df47f79b50
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",corcoran,3634,corcoran,,,,,,,,,,,mapping,258fdbac59947b05721b56d2555f8f6a,mapping__258fdbac59947b05721b56d2555f8f6a
+"[""NameVariant""]",NameVariant,"[""NameVariant""]",Corcoran Group,-1,Corcoran Group,,,,,,,,,,,mapping,fe348ef090becafc958887c930b6a05f,mapping__fe348ef090becafc958887c930b6a05f
+"[""NameVariant""]",NameVariant,"[""NameVariant""]",The Corcoran Group,-1,The Corcoran Group,,,,,,,,,,,mapping,6fbc14dbe9fb205884ad339b5f515ffa,mapping__6fbc14dbe9fb205884ad339b5f515ffa
 "[""NameVariant"",""Caption""]",Caption,"[""NameVariant"",""Caption""]",Century 21,3635,,4789c703f89c358cc5135b2782ebb010,Century 21,,,,,,,,1,mapping,64f2a84af18304bad1de959a6030c944,mapping__64f2a84af18304bad1de959a6030c944
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",century 21,3635,century 21,,,,,,,,,,,mapping,8f77059533ec82f76970b98a86119e5c,mapping__8f77059533ec82f76970b98a86119e5c
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",AP Films,-1,AP Films,,,,,,,,,,,mapping,8172bbad696f028b283985c803b05fc1,mapping__8172bbad696f028b283985c803b05fc1
@@ -7669,7 +7679,7 @@ labels,type,type_list,variant,row_index,keyword,guid,caption_name,Secondary Term
 "[""NameVariant"",""Caption""]",Caption,"[""NameVariant"",""Caption""]",Chemical Waste Management,4468,,5b82a2f558571eac087f19e74f1cc791,Chemical Waste Management,,,,,,,,1,mapping,619e3d84fb395a7b2ae877da0aca5ce6,mapping__619e3d84fb395a7b2ae877da0aca5ce6
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",chemical waste management,4468,chemical waste management,,,,,,,,,,,mapping,94e2197af36d80e26e28705ce76dcddf,mapping__94e2197af36d80e26e28705ce76dcddf
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",chemicalwastemanagement,4469,chemicalwastemanagement,,,,,,,,,,,mapping,47332a1deca225b0508462774a4b6aad,mapping__47332a1deca225b0508462774a4b6aad
-"[""NameVariant""]",NameVariant,"[""NameVariant""]","Chemical Waste Management, Inc. v. Hunt",-1,"Chemical Waste Management, Inc. v. Hunt",,,,,,,,,,,mapping,a94a2e01a534a5e5acb4155c4c476617,mapping__a94a2e01a534a5e5acb4155c4c476617
+"[""NameVariant""]",NameVariant,"[""NameVariant""]",Nuclear and Chemical Waste Management,-1,Nuclear and Chemical Waste Management,,,,,,,,,,,mapping,37fcbe47ced5995cadaabe592ff2f7ce,mapping__37fcbe47ced5995cadaabe592ff2f7ce
 "[""NameVariant"",""Caption""]",Caption,"[""NameVariant"",""Caption""]",EnviroSolutions,4470,,5b82a2f558571eac087f19e74f1cc791,EnviroSolutions,,,,,,,,1,mapping,aca8e6189f1f53c9ab5baa9ad43fabd7,mapping__aca8e6189f1f53c9ab5baa9ad43fabd7
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",envirosolutions,4470,envirosolutions,,,,,,,,,,,mapping,e7181f32da81b0cdc911c95a2ab0be3f,mapping__e7181f32da81b0cdc911c95a2ab0be3f
 "[""NameVariant"",""Caption""]",Caption,"[""NameVariant"",""Caption""]",Waste Management CEO James Fish,4471,,5b82a2f558571eac087f19e74f1cc791,Waste Management CEO James Fish,,,,,,,2021.11.23 14:42:06,1,mapping,63a0d18ed7d0b81b78dbc9987bd01c96,mapping__63a0d18ed7d0b81b78dbc9987bd01c96
@@ -7733,14 +7743,13 @@ labels,type,type_list,variant,row_index,keyword,guid,caption_name,Secondary Term
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",Whale Museum,-1,Whale Museum,,,,,,,,,,,mapping,d4e638b62bc000ce061e4c587f82c4c4,mapping__d4e638b62bc000ce061e4c587f82c4c4
 "[""NameVariant"",""Caption""]",Caption,"[""NameVariant"",""Caption""]",Europe's Best,4504,,5b9ad876ccee7caae7e4e1234e41a4e7,Europe's Best,,,,,,,,1,mapping,45c799d97df7c8961beacaad8581e83e,mapping__45c799d97df7c8961beacaad8581e83e
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",europes best international,4504,europes best international,,,,,,,,,,,mapping,dd1ae0602b88a661ea013d22792baeb3,mapping__dd1ae0602b88a661ea013d22792baeb3
-"[""NameVariant""]",NameVariant,"[""NameVariant""]",UEFA Women's Player of the Year Award,-1,UEFA Women's Player of the Year Award,,,,,,,,,,,mapping,1a509890119f18bb307a95c250651f4d,mapping__1a509890119f18bb307a95c250651f4d
 "[""NameVariant"",""Caption""]",Caption,"[""NameVariant"",""Caption""]",Milnot Company,4505,,5b9ad876ccee7caae7e4e1234e41a4e7,Milnot Company,,,,,,,,1,mapping,975019486c2a031744d4f04d3ddabeb7,mapping__975019486c2a031744d4f04d3ddabeb7
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",milnot company,4505,milnot company,,,,,,,,,,,mapping,159d19f22d1e34c43ba8c020b5c19fde,mapping__159d19f22d1e34c43ba8c020b5c19fde
 "[""NameVariant"",""Caption""]",Caption,"[""NameVariant"",""Caption""]",Fantasia Confections,4506,,5b9ad876ccee7caae7e4e1234e41a4e7,Fantasia Confections,,,,,,,,1,mapping,8471baa145d73880d870073c9553a691,mapping__8471baa145d73880d870073c9553a691
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",fantasia confections,4506,fantasia confections,,,,,,,,,,,mapping,39ca7289d2806b967451643f4b519a46,mapping__39ca7289d2806b967451643f4b519a46
 "[""NameVariant"",""Caption""]",Caption,"[""NameVariant"",""Caption""]",Folger Coffee,4507,,5b9ad876ccee7caae7e4e1234e41a4e7,Folger Coffee,,,,,,,,1,mapping,e6cf1ceb7000891c2569932c10adce64,mapping__e6cf1ceb7000891c2569932c10adce64
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",folger coffee,4507,folger coffee,,,,,,,,,,,mapping,1df84117ec6e685af8e7939ff9900e72,mapping__1df84117ec6e685af8e7939ff9900e72
-"[""NameVariant""]",NameVariant,"[""NameVariant""]",Folger Coffee Company Building,-1,Folger Coffee Company Building,,,,,,,,,,,mapping,0f412c08b7e5b17f0897097c90db133c,mapping__0f412c08b7e5b17f0897097c90db133c
+"[""NameVariant""]",NameVariant,"[""NameVariant""]",Folgers,-1,Folgers,,,,,,,,,,,mapping,a84df69d28e4f2a9702b38f5ba89869b,mapping__a84df69d28e4f2a9702b38f5ba89869b
 "[""NameVariant"",""Caption""]",Caption,"[""NameVariant"",""Caption""]",Natural Balance Pet Foods,4508,,5b9ad876ccee7caae7e4e1234e41a4e7,Natural Balance Pet Foods,,,,,,,,1,mapping,34c4a8c82c78a4f70ab3ebcd8bf91453,mapping__34c4a8c82c78a4f70ab3ebcd8bf91453
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",natural balance pet foods,4508,natural balance pet foods,,,,,,,,,,,mapping,4e207e0769253043b24a95d229072224,mapping__4e207e0769253043b24a95d229072224
 "[""NameVariant"",""Caption""]",Caption,"[""NameVariant"",""Caption""]",Rank Hovis McDougall,4509,,5b9ad876ccee7caae7e4e1234e41a4e7,Rank Hovis McDougall,,,,,,,,1,mapping,24c7931c85ffadd98e7bd20e2884e469,mapping__24c7931c85ffadd98e7bd20e2884e469
@@ -10323,7 +10332,8 @@ labels,type,type_list,variant,row_index,keyword,guid,caption_name,Secondary Term
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",woolworthsgroup,6134,woolworthsgroup,,,,,,,,,,,mapping,ff0aa82f04dacb73283aab9557acfd38,mapping__ff0aa82f04dacb73283aab9557acfd38
 "[""NameVariant"",""Caption""]",Caption,"[""NameVariant"",""Caption""]",Phillip Morris,6135,,7826d229e1d1df2085a3014e49e3127b,Phillip Morris,,,,,,,,1,mapping,f9cbcd8d7c8a1a321b12f4f3e6f98da2,mapping__f9cbcd8d7c8a1a321b12f4f3e6f98da2
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",phillip morris,6135,phillip morris,,,,,,,,,,,mapping,e0334dfa26ba7b6db732dd1deca16793,mapping__e0334dfa26ba7b6db732dd1deca16793
-"[""NameVariant""]",NameVariant,"[""NameVariant""]",Philip Morris,-1,Philip Morris,,,,,,,,,,,mapping,2c132ffb93c2223e6b38c6f89929cf70,mapping__2c132ffb93c2223e6b38c6f89929cf70
+"[""NameVariant""]",NameVariant,"[""NameVariant""]",Philip Morris USA,-1,Philip Morris USA,,,,,,,,,,,mapping,8f6036e87dce1b96d367d737727765cf,mapping__8f6036e87dce1b96d367d737727765cf
+"[""NameVariant""]",NameVariant,"[""NameVariant""]",Phillip Morris and Co. LTD,-1,Phillip Morris and Co. LTD,,,,,,,,,,,mapping,e77232a63467f2b4fcca5f84d4538647,mapping__e77232a63467f2b4fcca5f84d4538647
 "[""NameVariant"",""Caption""]",Caption,"[""NameVariant"",""Caption""]",Altria,6136,,7826d229e1d1df2085a3014e49e3127b,Altria,,,,,,,,1,mapping,0343f87dec12103546d18f73a14c1246,mapping__0343f87dec12103546d18f73a14c1246
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",john middleton,6136,john middleton,,,,,,,,,,,mapping,2dff67d3975221c8dce4c74b07dedfb0,mapping__2dff67d3975221c8dce4c74b07dedfb0
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",altira,6137,altira,,,,,,,,,,,mapping,40db84ebde09b699e5d4e87bb2bacaf9,mapping__40db84ebde09b699e5d4e87bb2bacaf9
@@ -10341,7 +10351,7 @@ labels,type,type_list,variant,row_index,keyword,guid,caption_name,Secondary Term
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",phillip morris usa,6145,phillip morris usa,,,,,,,,,,,mapping,7e8ea91e3be9aac9978e9000877324a5,mapping__7e8ea91e3be9aac9978e9000877324a5
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",phillip moris,6146,phillip moris,,,,,,,,,,,mapping,94437e50661d47f78fd45738960a92ff,mapping__94437e50661d47f78fd45738960a92ff
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",phillip morris companies,6147,phillip morris companies,,,,,,,,,,,mapping,e582e41fa42c61ceb32a470873734105,mapping__e582e41fa42c61ceb32a470873734105
-"[""NameVariant""]",NameVariant,"[""NameVariant""]",Philip Morris,-1,Philip Morris,,,,,,,,,,,mapping,2c132ffb93c2223e6b38c6f89929cf70,mapping__2c132ffb93c2223e6b38c6f89929cf70
+"[""NameVariant""]",NameVariant,"[""NameVariant""]",Phillip Morris and Co. LTD,-1,Phillip Morris and Co. LTD,,,,,,,,,,,mapping,e77232a63467f2b4fcca5f84d4538647,mapping__e77232a63467f2b4fcca5f84d4538647
 "[""NameVariant"",""Caption""]",Caption,"[""NameVariant"",""Caption""]",U.S. Smokeless Tobacco,6148,,7826d229e1d1df2085a3014e49e3127b,U.S. Smokeless Tobacco,,,,,,,,1,mapping,b021c008dfca5626076ade31ef3e2c65,mapping__b021c008dfca5626076ade31ef3e2c65
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",u.s. smokeless tobacco co.,6148,u.s. smokeless tobacco co.,,,,,,,,,,,mapping,b29912336de488a2ac62a189566ac522,mapping__b29912336de488a2ac62a189566ac522
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",U.S. Smokeless Tobacco Company,-1,U.S. Smokeless Tobacco Company,,,,,,,,,,,mapping,594e111d396716fe41dab2054d49d9f1,mapping__594e111d396716fe41dab2054d49d9f1
@@ -10353,6 +10363,8 @@ labels,type,type_list,variant,row_index,keyword,guid,caption_name,Secondary Term
 "[""NameVariant"",""Caption""]",Caption,"[""NameVariant"",""Caption""]",Philip Morris,6152,,7826d229e1d1df2085a3014e49e3127b,Philip Morris,,,,,,,,1,mapping,e05d412e736aad52f0316b2fdf217bfe,mapping__e05d412e736aad52f0316b2fdf217bfe
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",philip morris,6152,philip morris,,,,,,,,,,,mapping,e8512a67f2754515bc1a26c0f50dc09b,mapping__e8512a67f2754515bc1a26c0f50dc09b
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",philip morris companies,6153,philip morris companies,,,,,,,,,,,mapping,cdfda0e7c025c0179286d28d520aa0c3,mapping__cdfda0e7c025c0179286d28d520aa0c3
+"[""NameVariant""]",NameVariant,"[""NameVariant""]",Philip Morris USA,-1,Philip Morris USA,,,,,,,,,,,mapping,8f6036e87dce1b96d367d737727765cf,mapping__8f6036e87dce1b96d367d737727765cf
+"[""NameVariant""]",NameVariant,"[""NameVariant""]",Phillip Morris and Co. LTD,-1,Phillip Morris and Co. LTD,,,,,,,,,,,mapping,e77232a63467f2b4fcca5f84d4538647,mapping__e77232a63467f2b4fcca5f84d4538647
 "[""NameVariant"",""Caption""]",Caption,"[""NameVariant"",""Caption""]",Mercer,6154,,7827e0fb7ded9a79f06203e0b86ff363,Mercer,,,,,,,,1,mapping,6c62a4a31110de8050cc0e195db36897,mapping__6c62a4a31110de8050cc0e195db36897
 "[""NameVariant"",""Hashtag""]",Hashtag,"[""NameVariant"",""Hashtag""]",#mercer,6154,#mercer,,,,,,,,,,,mapping,63d627364aa742fbf32af3dd77ac171c,mapping__63d627364aa742fbf32af3dd77ac171c
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",Mercer Automobile Company,-1,Mercer Automobile Company,,,,,,,,,,,mapping,1f41c61dbcd7206cdffa744b0a3e23bf,mapping__1f41c61dbcd7206cdffa744b0a3e23bf
@@ -11343,6 +11355,7 @@ labels,type,type_list,variant,row_index,keyword,guid,caption_name,Secondary Term
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",vacheron constantin,6758,vacheron constantin,,,,,,,,,,,mapping,44f0fe6bac032f2551b779baa0439fd5,mapping__44f0fe6bac032f2551b779baa0439fd5
 "[""NameVariant"",""Caption""]",Caption,"[""NameVariant"",""Caption""]",Peter Millar,6759,,8fe894b368fceb74597c02f8e47fb13e,Peter Millar,,,,,,,,1,mapping,ca4ba539f85f26c63c1b6f5596f476b1,mapping__ca4ba539f85f26c63c1b6f5596f476b1
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",peter millar,6759,peter millar,,,,,,,,,,,mapping,6f70e107a8b310ea1c0b14e375c570bf,mapping__6f70e107a8b310ea1c0b14e375c570bf
+"[""NameVariant""]",NameVariant,"[""NameVariant""]",Peter Millar (clothing company),-1,Peter Millar (clothing company),,,,,,,,,,,mapping,2e1bfb9d69b652d3dc6f2c0e103ef682,mapping__2e1bfb9d69b652d3dc6f2c0e103ef682
 "[""NameVariant"",""Caption""]",Caption,"[""NameVariant"",""Caption""]",Jaeger-LeCoultre,6760,,8fe894b368fceb74597c02f8e47fb13e,Jaeger-LeCoultre,,,,,,,,1,mapping,1150a1848f07833d5720b23585ffa1b9,mapping__1150a1848f07833d5720b23585ffa1b9
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",jaeger-lecoultre,6760,jaeger-lecoultre,,,,,,,,,,,mapping,d672304c459c0d78d8958a222de12fb2,mapping__d672304c459c0d78d8958a222de12fb2
 "[""NameVariant"",""Caption""]",Caption,"[""NameVariant"",""Caption""]",Alfred Dunhill,6761,,8fe894b368fceb74597c02f8e47fb13e,Alfred Dunhill,,,,,,,,1,mapping,46d9ee5582e4ed770579eb5467615469,mapping__46d9ee5582e4ed770579eb5467615469
@@ -11553,8 +11566,10 @@ labels,type,type_list,variant,row_index,keyword,guid,caption_name,Secondary Term
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",safeway,6888,safeway,,,,,,,,,,,mapping,92283c5991a41f9681edb6c521975ef6,mapping__92283c5991a41f9681edb6c521975ef6
 "[""NameVariant"",""Caption""]",Caption,"[""NameVariant"",""Caption""]",Jewel,6889,,949eebc349bda3ce68cb04fe43baa843,Jewel,,,,,,,,1,mapping,719e0e6b971fc7e285637caf43e2c4e9,mapping__719e0e6b971fc7e285637caf43e2c4e9
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",jewelosco,6889,jewelosco,,,,,,,,,,,mapping,e83a6c8aedf4e11ec47663acdb302c98,mapping__e83a6c8aedf4e11ec47663acdb302c98
-"[""NameVariant""]",NameVariant,"[""NameVariant""]",Jewel Tower,-1,Jewel Tower,,,,,,,,,,,mapping,a1f34efc69af15e04134897949eed0ff,mapping__a1f34efc69af15e04134897949eed0ff
-"[""NameVariant""]",NameVariant,"[""NameVariant""]",The Jewel Tower,-1,The Jewel Tower,,,,,,,,,,,mapping,bea8b0d250f5bd1562b1dd115a88d334,mapping__bea8b0d250f5bd1562b1dd115a88d334
+"[""NameVariant""]",NameVariant,"[""NameVariant""]",Jewel-Osco,-1,Jewel-Osco,,,,,,,,,,,mapping,442bf3890a0011f87efc8782526fd24c,mapping__442bf3890a0011f87efc8782526fd24c
+"[""NameVariant""]",NameVariant,"[""NameVariant""]",jewel supermarket,-1,jewel supermarket,,,,,,,,,,,mapping,83df923330067743b30e57c60ad4f032,mapping__83df923330067743b30e57c60ad4f032
+"[""NameVariant""]",NameVariant,"[""NameVariant""]",Jewel Osco,-1,Jewel Osco,,,,,,,,,,,mapping,2d15732192a71d57f97bd8b7e7c85b15,mapping__2d15732192a71d57f97bd8b7e7c85b15
+"[""NameVariant""]",NameVariant,"[""NameVariant""]",Jewel Osco Supermarket,-1,Jewel Osco Supermarket,,,,,,,,,,,mapping,53c1bc8ddceb7a302acc4653291553c3,mapping__53c1bc8ddceb7a302acc4653291553c3
 "[""NameVariant"",""Caption""]",Caption,"[""NameVariant"",""Caption""]",Albertsons Companies Inc,6890,,949eebc349bda3ce68cb04fe43baa843,Albertsons Companies Inc,,,,,,,,1,mapping,be6a39d6b505047430099e0e85e2e635,mapping__be6a39d6b505047430099e0e85e2e635
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",andronicos,6890,andronicos,,,,,,,,,,,mapping,4cb2cdba6fc2e80c3b7d310cb6d20b01,mapping__4cb2cdba6fc2e80c3b7d310cb6d20b01
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",andronico's supermarket,6891,andronico's supermarket,,,,,,,,,,,mapping,153259648cb028e4570c1c41db43032d,mapping__153259648cb028e4570c1c41db43032d
@@ -12974,6 +12989,7 @@ labels,type,type_list,variant,row_index,keyword,guid,caption_name,Secondary Term
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",cognizant technology solutions ceo humphries,7745,cognizant technology solutions ceo humphries,,,,,,,,,,,mapping,3784bb7e6ec7521f169e8a92f9745634,mapping__3784bb7e6ec7521f169e8a92f9745634
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",cognizant ceo,7746,cognizant ceo,,,,,,,,,,,mapping,27c28aa83d0b7355c72ae4827eec5ba8,mapping__27c28aa83d0b7355c72ae4827eec5ba8
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",Brian Humphries,-1,Brian Humphries,,,,,,,,,,,mapping,23fb8060b1f73f700917c94c6179ca2f,mapping__23fb8060b1f73f700917c94c6179ca2f
+"[""NameVariant""]",NameVariant,"[""NameVariant""]",European Business Aviation Association,-1,European Business Aviation Association,,,,,,,,,,,mapping,7967be7c405928459433414e052984f4,mapping__7967be7c405928459433414e052984f4
 "[""NameVariant"",""Caption""]",Caption,"[""NameVariant"",""Caption""]",Cognizant,7747,,a7b5599d2f512bee58ad7e711f2713d4,Cognizant,,,,,,,,1,mapping,f3c7dcaa3cb496a9e11ce0e54267d49a,mapping__f3c7dcaa3cb496a9e11ce0e54267d49a
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",cognizant technology solutions u.s. corporation,7747,cognizant technology solutions u.s. corporation,,,,,,,,,,,mapping,8ea3e9906cc7b37d776a40a212d3c001,mapping__8ea3e9906cc7b37d776a40a212d3c001
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",cognizanttechnology,7748,cognizanttechnology,,,,,,,,,,,mapping,306bc6f488d2a26d59899f5b3103af45,mapping__306bc6f488d2a26d59899f5b3103af45
@@ -13033,6 +13049,7 @@ labels,type,type_list,variant,row_index,keyword,guid,caption_name,Secondary Term
 "[""NameVariant"",""Caption""]",Caption,"[""NameVariant"",""Caption""]",Cognizant executive Brian Humphries,7782,,a7b5599d2f512bee58ad7e711f2713d4,Cognizant executive Brian Humphries,Company Names,AND,,,,,2021.10.30 16:39:11,1,mapping,3887979081ab613e8744fbb6333461e6,mapping__3887979081ab613e8744fbb6333461e6
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",brianhumphries,7782,brianhumphries,,,,,,,,,,,mapping,b2dda0f8d96a843575d2b97a62044e1a,mapping__b2dda0f8d96a843575d2b97a62044e1a
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",Brian Humphries,-1,Brian Humphries,,,,,,,,,,,mapping,23fb8060b1f73f700917c94c6179ca2f,mapping__23fb8060b1f73f700917c94c6179ca2f
+"[""NameVariant""]",NameVariant,"[""NameVariant""]",European Business Aviation Association,-1,European Business Aviation Association,,,,,,,,,,,mapping,7967be7c405928459433414e052984f4,mapping__7967be7c405928459433414e052984f4
 "[""NameVariant"",""Caption""]",Caption,"[""NameVariant"",""Caption""]",Nordstrom Rack,7783,,a83049de7caf09a57e3028506b11c25b,Nordstrom Rack,,,,,,,,1,mapping,0247ce7e655df2a19d255d49c245829b,mapping__0247ce7e655df2a19d255d49c245829b
 "[""NameVariant""]",NameVariant,"[""NameVariant""]",nordstromrack,7783,nordstromrack,,,,,,,,,,,mapping,d989d23c542a904964068089c7dc47fc,mapping__d989d23c542a904964068089c7dc47fc
 "[""NameVariant"",""Caption""]",Caption,"[""NameVariant"",""Caption""]",Nordstrom President Erik Nordstrom,7784,,a83049de7caf09a57e3028506b11c25b,Nordstrom President Erik Nordstrom,,,,,,,,1,mapping,64e9aae13db61f9980007f011446288e,mapping__64e9aae13db61f9980007f011446288e

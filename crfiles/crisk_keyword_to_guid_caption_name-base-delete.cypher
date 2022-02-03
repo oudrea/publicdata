@@ -1,1 +1,1 @@
-MATCH (n:Entity {data_source: "crisk_keyword_to_guid_caption_name"}) CALL { WITH n DETACH DELETE n } IN TRANSACTIONS OF 500 ROWS;
+MATCH (n:Entity {data_source: "mapping"}) CALL { WITH n DETACH DELETE n } IN TRANSACTIONS OF 500 ROWS;

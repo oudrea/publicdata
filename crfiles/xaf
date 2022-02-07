@@ -1,3 +1,4 @@
+source_global_identifier,destination_global_identifier,rel_type,rel_properties
 mapping__3S Engineering,KP__df8675ff7bc30634853c55398bcecb55,RELATED,"{""from"":""crisk_keyword_to_guid_caption_name""}"
 mapping__3S Engineering,mapping__b687a41f3bd5183e21556bdeaa395b04,NAMEVARIANT,"{""from"":""crisk_keyword_to_guid_caption_name""}"
 mapping__3S Engineering,mapping__3c1be9ba95146a9aa74f8f9e93ddedf0,NAMEVARIANT,"{""from"":""crisk_keyword_to_guid_caption_name""}"

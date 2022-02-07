@@ -1,3 +1,4 @@
+source_global_identifier,destination_global_identifier,rel_type,rel_properties
 mapping__Mark Hill,KP__1906cb4a385fe186ff33da6030f4f873,RELATED,"{""from"":""crisk_keyword_to_guid_caption_name""}"
 mapping__Mark Hill,mapping__https://en.wikipedia.org/wiki/CSL_Limited,RELATED,"{""from"":""crisk_keyword_to_guid_caption_name""}"
 mapping__Mark Hill,mapping__132b46ab734162c2e4578c6c456f5083,NAMEVARIANT,"{""from"":""crisk_keyword_to_guid_caption_name""}"

@@ -1,0 +1,1 @@
+MATCH (n:Entity {data_source: "mapping"}) CALL { WITH n DETACH DELETE n } IN TRANSACTIONS OF 500 ROWS;
